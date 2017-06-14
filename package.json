@@ -1,0 +1,26 @@
+{
+  "name": "ddcppuser",
+  "version": "1.0.0",
+  "description": "User of common DD C++ library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlenko/ddcppuser.git"
+  },
+  "keywords": [
+    "C++",
+    "dependencies"
+  ],
+  "author": "Vlad Orlenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orlenko/ddcppuser/issues"
+  },
+  "homepage": "https://github.com/orlenko/ddcppuser#readme",
+  "dependencies": {
+    "ddcpp": "git+ssh://github.com/dronedeploy/cpp_common#v1.2.1"
+  }
+}
