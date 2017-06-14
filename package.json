@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/orlenko/ddcppuser#readme",
   "dependencies": {
-    "cpp_common": "github:dronedeploy/cpp_common#v1.2.0"
+    "cpp_common": "github:dronedeploy/cpp_common#v1.2.0",
+    "ddcppuserlib": "github:orlenko/ddcppuserlib#v1.0.1"
   }
 }
